@@ -1,4 +1,4 @@
-package src;
+package src.testing;
 
 public class lab001 {
 
