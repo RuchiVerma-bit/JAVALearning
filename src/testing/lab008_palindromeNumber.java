@@ -22,6 +22,7 @@ public class lab008_palindromeNumber {
         System.out.println("Enter the input");
         String input = sc.next();
 
+        System.out.println("Using simple method");
         String y = "";
         for (int i = input.length() - 1; i >= 0; i--) {
             y = y + input.charAt(i);

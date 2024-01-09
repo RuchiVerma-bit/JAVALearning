@@ -2,6 +2,13 @@ package src.testing;
 import java.util.Scanner;
 
 public class lab003_primeno {
+
+    //Conditions:
+    //1. 0 and 1 are not hte prime number.
+    //2. 2 is the first prime number.
+    //3. Number should be divisible to any of the other number.
+    //4. If number should not be divisible by 2.
+
     public static void main(String[] args) {
         int flag=0;
         Scanner sc= new Scanner(System.in);
